@@ -1,5 +1,3 @@
-# главный файл для запуска
-
 from aiogram.utils import executor
 
 import handlers 
